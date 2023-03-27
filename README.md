@@ -17,7 +17,7 @@ xy_data ( std::vector collect 120 Eigen::MatrixXd (720 X 2) ) : 720 scans, xy da
 Authors: Yu-Jyun Ou (neko7055@gmail.com) (Discord: Nuko#1247)\
 Date: 2023-03-27
 
-# Licence
+# Scitation
 This project uses the following two open source projects. 
 1. [Eigen3](https://eigen.tuxfamily.org/index.php?title=Main_Page)
 2. [Matplot-cpp](https://matplotlib-cpp.readthedocs.io/en/latest/)
