@@ -30,6 +30,7 @@ This project uses the following two open source projects.
 
 # Compile & Usage
 ```bash=
+git clone https://github.com/NcuMathRoboticsLab/Leg-dataset-CXX-Version.git
 cd Leg-dataset-CXX-Version
 mkdir build
 cd build
