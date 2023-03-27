@@ -8,7 +8,7 @@ The data rate is 1HZ. The metric is meter.\
 If the XY of data is 0, it represents out of laser range.
 
 Data format:\
-xy_data ( std::vector collect 120 720 X 2 Eigen::Matrix ) : 720 scans, xy data, 120 seconds.
+xy_data ( std::vector collect 120 Eigen::MatrixXd (720 X 2) ) : 720 scans, xy data, 120 seconds.
  
 **Revision: 1.0.cpp**\
 Authors: Yu-Jyun Ou (neko7055@gmail.com) (Discord: Nuko#1247)\
