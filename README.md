@@ -1,4 +1,7 @@
 # Leg-dataset-CXX-Version
+
+![image](./Figure.png)
+
 Name: Leg dataset C++ version
 
 Brief:\
