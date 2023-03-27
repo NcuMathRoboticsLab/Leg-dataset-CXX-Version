@@ -20,7 +20,7 @@ Date: 2023-03-27
 # Scitation
 This project uses the following two open source projects. 
 1. [Eigen3](https://eigen.tuxfamily.org/index.php?title=Main_Page)
-2. [Matplot-cpp](https://matplotlib-cpp.readthedocs.io/en/latest/)
+2. [Matplotlib-cpp](https://matplotlib-cpp.readthedocs.io/en/latest/)
 
 # Dependent
 + cmake
