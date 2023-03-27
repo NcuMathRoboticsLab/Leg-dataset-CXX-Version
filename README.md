@@ -30,7 +30,7 @@ This project uses the following two open source projects.
 
 # Compile & Usage
 ```bash=
-cd leg_detection
+cd Leg-dataset-CXX-Version
 mkdir build
 cd build
 cmake ..
